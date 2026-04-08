@@ -1,0 +1,162 @@
+{
+  "115548128962906291": {
+    "matchId": "115548128962906291",
+    "messageId": "1488516493967626333",
+    "channelId": "1469058745924587544",
+    "match": {
+      "id": "115548128962906291",
+      "startTime": "2026-04-02T08:00:00Z",
+      "state": "unstarted",
+      "leagueName": "LCK",
+      "blockName": "Week 1",
+      "team1": {
+        "name": "Dplus KIA",
+        "code": "DK",
+        "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      },
+      "team2": {
+        "name": "NONGSHIM RED FORCE",
+        "code": "NS",
+        "image": "http://static.lolesports.com/teams/NSFullonDark.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      }
+    },
+    "closed": false,
+    "startTime": "2026-04-02T08:00:00.000Z"
+  },
+  "115548128962906247": {
+    "matchId": "115548128962906247",
+    "messageId": "1488516538544947412",
+    "channelId": "1469058745924587544",
+    "match": {
+      "id": "115548128962906247",
+      "startTime": "2026-04-02T10:00:00Z",
+      "state": "unstarted",
+      "leagueName": "LCK",
+      "blockName": "Week 1",
+      "team1": {
+        "name": "KIWOOM DRX",
+        "code": "KRX",
+        "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      },
+      "team2": {
+        "name": "DN SOOPers",
+        "code": "DNS",
+        "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      }
+    },
+    "closed": false,
+    "startTime": "2026-04-02T10:00:00.000Z"
+  },
+  "115548128962840667": {
+    "matchId": "115548128962840667",
+    "messageId": "1488516587714641981",
+    "channelId": "1469058745924587544",
+    "match": {
+      "id": "115548128962840667",
+      "startTime": "2026-04-03T10:00:00Z",
+      "state": "unstarted",
+      "leagueName": "LCK",
+      "blockName": "Week 1",
+      "team1": {
+        "name": "BNK FEARX",
+        "code": "BFX",
+        "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      },
+      "team2": {
+        "name": "HANJIN BRION",
+        "code": "BRO",
+        "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      }
+    },
+    "closed": false,
+    "startTime": "2026-04-03T10:00:00.000Z"
+  },
+  "115615924499588587": {
+    "matchId": "115615924499588587",
+    "messageId": "1488516657507860644",
+    "channelId": "1469058745924587544",
+    "match": {
+      "id": "115615924499588587",
+      "startTime": "2026-04-04T09:00:00Z",
+      "state": "unstarted",
+      "leagueName": "LPL",
+      "blockName": "Week 1",
+      "team1": {
+        "name": "WeiboGaming",
+        "code": "WBG",
+        "image": "http://static.lolesports.com/teams/1641202879910_3.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      },
+      "team2": {
+        "name": "Anyone's Legend",
+        "code": "AL",
+        "image": "http://static.lolesports.com/teams/1641199582689_.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      }
+    },
+    "closed": false,
+    "startTime": "2026-04-04T09:00:00.000Z"
+  },
+  "115548128962578451": {
+    "matchId": "115548128962578451",
+    "messageId": "1488516722171318373",
+    "channelId": "1469058745924587544",
+    "match": {
+      "id": "115548128962578451",
+      "startTime": "2026-04-04T08:00:00Z",
+      "state": "unstarted",
+      "leagueName": "LCK",
+      "blockName": "Week 1",
+      "team1": {
+        "name": "T1",
+        "code": "T1",
+        "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      },
+      "team2": {
+        "name": "Hanwha Life Esports",
+        "code": "HLE",
+        "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+        "result": {
+          "outcome": null,
+          "gameWins": 0
+        }
+      }
+    },
+    "closed": false,
+    "startTime": "2026-04-04T08:00:00.000Z"
+  }
+}
